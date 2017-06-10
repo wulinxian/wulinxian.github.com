@@ -1,5 +1,5 @@
 ## 吃了吗？
-'''markdown
+```markdown
 conole.log('hello word!');
-'''markdown
+```
 [bobo](liangfengbo.com)。
