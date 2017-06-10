@@ -2,4 +2,4 @@
 ```markdown
 conole.log('hello word!');
 ```
-[bobo](liangfengbo.com)。
+[bobo](liangfenbo.com)。
